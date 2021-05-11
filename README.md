@@ -1,3 +1,3 @@
-# js-skfzp8
+# js-rxjs-tute
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-skfzp8)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-rxjs-tute)
